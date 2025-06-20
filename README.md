@@ -7,12 +7,6 @@ We are a global [software development company](https://codewik.com) offering:
 - Cloud Consulting
 - AI & Blockchain Solutions
 
-## Case Study: Fintech App for Canada
-
-We developed a scalable mobile app for a Canadian fintech company...
-
-📎 [Read full case study](https://codewik.com/case-study)
-
 ---
 
 ## Why Choose Codewik?
